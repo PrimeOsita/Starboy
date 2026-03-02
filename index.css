@@ -2,8 +2,33 @@
     margin: 0%;
     padding: 0%;
 }
-p{
+h1 {
     justify-content: center;
     align-items: center;
     color: black;
+}
+h2 {
+    justify-content: center;
+    align-items: center;
+    color: brown;
+}
+h3 {
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+h4 {
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+h5 {
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+}
+h6 {
+    justify-content: center;
+    align-items: center;
+    color: rebeccapurple;
 }
